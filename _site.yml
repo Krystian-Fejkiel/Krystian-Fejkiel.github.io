@@ -2,6 +2,8 @@ name: "Hash-fit"
 navbar:
   title: "Hash-fit"
   left:
+    - text: "Strona główna"
+      href: ibdex.html  
     - text: "Dieta"
       href: dieta.html
     - text: "Treningi personalne"

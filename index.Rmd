@@ -1,6 +1,6 @@
 ---
-title: "Krystian's personal page"
+title: "Strona główna"
+
 ---
 
-Hello, Website! I am Krystian
-
+Ta część poświęcona ogólnym info
