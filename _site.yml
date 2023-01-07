@@ -1,12 +1,14 @@
-name: "my-website"
+name: "Hash-fit"
 navbar:
-  title: "My Website"
+  title: "Hash-fit"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-    - text: "Contacts"
+    - text: "Dieta"
+      href: dieta.html
+    - text: "Treningi personalne"
+      href: trening.html
+    - text: "Cennik"
+      href: cennik.html      
+    - text: "O nas"
       href: contacts.html
 output:
   html_document:

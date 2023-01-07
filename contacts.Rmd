@@ -1,7 +1,10 @@
 ---
-title: "Contact info"
+title: "Kontakt"
 ---
+Zespół:
 
-Fullname: Krystian Fejkiel
-Phone: 729664400
+1. Krystian Fejkiel 
+* telefon: 729664400
+2. Zuzanna Fejkiel
+* telefon: 728540914
 
