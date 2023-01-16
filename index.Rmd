@@ -1,6 +1,65 @@
 ---
-title: "Strona główna"
-
+title: "**Hashi-Fit**"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 3
+    #code_folding: hide
 ---
 
-Ta część poświęcona ogólnym info
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	message = FALSE,
+	warning = FALSE,
+	cache = TRUE
+)
+```
+
+<img class="profile-picture" src="images/logo.jpg" alt="drawing"/> 
+
+Hashi-Fit oferuje profesjonalne usługi z zakresu przygotowania treningów personalnych oraz diet. Jeżeli borykasz się ze schorzeniami endykronologicznymi i chcesz lepiej się czuć i wyglądać we własnym ciele - to ta strona jest właśnie dla Ciebie! 
+
+Już teraz sprawdź co dla Ciebie przygotowaliśmy!
+<section>
+  <h2> **Oferta** </h2>
+  <ul class="offer" >
+    <li> 
+      <img src="images/food.png"/>
+      <dic>
+        <h3> **Dieta** </h3> 
+        <p>
+        XXXXxx
+        </p>
+      </dic>  
+    </li>
+    
+    <li> 
+      <img src="images/gym.png"/> 
+      <dic>
+        <h3> **Trening** </h3>        
+        <p> XXXXXXX  </p>
+      </dic>  
+    </li>
+    
+    <li>  
+      <img src="images/speech.png"/>
+      <dic>
+        <h3> **Spotkanie motywujące**  </h3>     
+        <p> XXXXX  </p>
+      </dic>
+    </li> 
+    
+    <li>  
+      <img src="images/meet.png"/>
+      <dic>
+        <h3> **Spotkanie z fizjoterapeutą** </h3>        
+        <p> XXXXXXXXXXXXX  </p>
+      </dic>  
+    </li>
+  </ul>
+</section>  

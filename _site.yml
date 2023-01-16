@@ -1,6 +1,6 @@
-name: "Hash-fit"
+name: "Hashi-Fit"
 navbar:
-  title: "Hash-fit"
+  title: "Hashi-Fit"
   left:
     - text: "Strona główna"
       href: index.html  
@@ -16,6 +16,7 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
+    geometry: left=1mm, right=1mm, top=1mm, bottom=1mm
     include:
       after_body: footer.html
     css: styles.css

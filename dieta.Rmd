@@ -4,3 +4,13 @@ title: "Dieta"
 ---
 
 Ta część poświęcona diecie
+
+## Twoja dieta {.tabset}
+
+### By Product
+
+(tab content)
+
+### By Region
+
+(tab content)

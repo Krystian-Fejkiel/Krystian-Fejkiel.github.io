@@ -7,11 +7,3 @@ Zespół:
 * telefon: 729664400
 2. Zuzanna Fejkiel
 * telefon: 728540914
-
-```{css, echo=FALSE}
-.watch-out {
-  background-color: lightpink;
-  border: 3px solid red;
-  font-weight: bold;
-}
-```

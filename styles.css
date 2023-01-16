@@ -1,3 +1,43 @@
-blockquote {
-  font-style: italic
+h1, h2, h3 {
+  font-style: bold
+  color: black;
+  text-align: center;
+  margin-left: 0 auto; 
 }
+
+body {
+  font-family: Arial;
+}
+
+.profile-picture {
+  width:800px;
+  height:400px;
+}
+
+img {
+  width:75px;
+  height:75px;
+}
+
+.offer {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.offer li {
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+}
+
+.offer dic {
+  margin-left:20px;
+}
+
+.offer p {
+  line-height: 1.5;
+  color: grey;
+}
+
